@@ -97,7 +97,7 @@ setup(name="ed25519",
       author_email="warner-python-ed25519@lothar.com",
       license="MIT",
       url="https://github.com/warner/python-ed25519",
-      trove_classifiers=[
+      classifiers=[
           "Development Status :: 5 - Production/Stable",
           "Intended Audience :: Developers",
           "License :: OSI Approved :: MIT License",
